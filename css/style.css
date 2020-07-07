@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Special Elite', cursive !important;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #000;
+}
+
+#title {
+  background-color: #fff200;
+}
+
+.bearly-logo {
+  height: 2rem;
+  width: 2rem;
+  margin: 0 10px 15px 0;
+}
+
+.navbar-brand {
+  font-size: 3rem !important; 
+  background-color: #fff200;
+  color: #000 !important;
+  padding: 0 !important;
+}
+
+.nav-item {
+  font-size: 1.5rem;
+  color: #fff200 !important;
+  margin: 0 .5rem;
+}
+
+.nav-item:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.title-text {
+  width: 80%;
+}
+
+.download-btn {
+  margin: 0 2% !important;
+}
+
+#features {
+  background-color: #000;
+  color: #fff;
+}
+
+.slide-title {
+  color: #fff200;
+}
+
+.box-1,
+.box-4,
+.box-6 {
+  padding: 0 !important;
+  background-color: #fff200;
+}
+
+.box-3,
+.box-5,
+.box-8 {
+  padding: 0 !important;
+  background-color: #000;
+  color: #fff200;
+}
+
+.box-2,
+.box-7 {
+  padding: 0!important;
+}
+
+#pro {
+  background-color: #fff200;
+}
+
+.pro-text {
+  font-size: 4rem;
+}
+
+.pro-icon {
+  height: 50px;
+  width: 50px;
+  padding-bottom: 10px;
+}
+
+#download {
+  background-color: #fff;
+}
+
+footer {
+  background-color: #000;
+  color: #fff200;
+}
+
+.contact-link {
+  color: #fff200;
+  margin: 1rem;
+}
+
+.contact-link:hover {
+  text-decoration: none;
+  color: #fff200;
+}
+
+.copyright {
+  padding: 2rem 0;
+}
+
+
+/* images */
+
+.phone-img {
+  height: 600px;
+  width: 299px;
+}
+
+.panda-img-1,
+.brown-img-2,
+.photo-box-img {
+  width: 100%;
+}
+
+.loveheart-img {
+  width: 70%;
+}
